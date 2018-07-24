@@ -4,7 +4,6 @@ android {
     compileSdkVersion 26
     buildToolsVersion "24.0.3"
     defaultConfig {
-        applicationId 'com.tang.svndemo'
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
