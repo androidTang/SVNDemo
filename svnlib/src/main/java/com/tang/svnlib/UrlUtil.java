@@ -1,4 +1,4 @@
-package com.tang.svndemo;
+package com.tang.svnlib;
 
 /**
  * 包名:  com.tang.svndemo
@@ -8,5 +8,8 @@ package com.tang.svndemo;
  * 描述：
  */
 
-public class ActivityUtil {
+public class UrlUtil {
+    synchronized void urlId() {
+        System.out.print("tang-------------------");
+    }
 }

@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SVNDemo.iml" filepath="$PROJECT_DIR$/SVNDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SVNDemo.iml" filepath="$PROJECT_DIR$/SVNDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svnlib/svnlib.iml" filepath="$PROJECT_DIR$/svnlib/svnlib.iml" />
     </modules>
   </component>
 </project>

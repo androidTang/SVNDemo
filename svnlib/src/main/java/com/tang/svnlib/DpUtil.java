@@ -1,4 +1,4 @@
-package com.tang.svndemo;
+package com.tang.svnlib;
 
 /**
  * 包名:  com.tang.svndemo
