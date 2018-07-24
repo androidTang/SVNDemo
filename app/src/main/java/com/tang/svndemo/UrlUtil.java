@@ -10,6 +10,6 @@ package com.tang.svndemo;
 
 public class UrlUtil {
     synchronized void urlId() {
-        System.out.print("urlId");
+        System.out.print("tang-------------------");
     }
 }
