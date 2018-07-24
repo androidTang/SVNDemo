@@ -1,11 +1,10 @@
-apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.androidTang'
+apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
     buildToolsVersion "24.0.3"
     defaultConfig {
+        applicationId 'com.tang.svndemo'
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1

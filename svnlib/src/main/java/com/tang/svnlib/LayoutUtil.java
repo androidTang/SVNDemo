@@ -1,4 +1,4 @@
-package com.tang.svndemo;
+package com.tang.svnlib;
 
 public class LayoutUtil {
 
