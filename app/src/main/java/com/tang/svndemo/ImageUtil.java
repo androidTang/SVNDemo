@@ -9,4 +9,7 @@ package com.tang.svndemo;
  */
 
 public class ImageUtil {
+    public static boolean getBoolean() {
+        return true;
+    }
 }
