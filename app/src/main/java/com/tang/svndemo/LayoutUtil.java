@@ -3,7 +3,7 @@ package com.tang.svndemo;
 public class LayoutUtil {
 
     synchronized void layoutId() {
-        System.out.print("layoutIdlayoutIdlayoutIdlayoutIdlayoutIdlayoutIdlayoutIdlayoutId");
+        System.out.print("layoutId");
     }
 
 }
